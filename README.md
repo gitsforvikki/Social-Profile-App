@@ -17,3 +17,36 @@ client Setup
 	5. index.html fontawesome css file
 	6. add google fonts "Ubuntu" font in index.html
 
+
+-> install axios , react-router-dom
+	-> npm install axios react-router-dom
+
+-> configure redux
+	-> install the redux related packages
+	-> npm install redux react-redux redux-thunk redux-logger redux-devtools-extension
+	-> configure store & root Reducer
+	-> Provide the "store" to React Application
+
+-> application folder structure
+	-> layout
+		-> home
+		-> navbar
+		-> util
+			-> spinner
+			-> alert
+	-> modules
+		-> users
+			-> user-register
+			-> user-login
+		-> posts
+			-> post-list
+			-> post-details
+		-> developers
+			-> developer-list
+			-> developer-details
+		-> profiles
+			-> dashboard
+			-> edit-profile
+			-> add-experience
+			-> add-education
+			-> create-profile
