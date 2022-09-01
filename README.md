@@ -8,7 +8,7 @@ There are three section about the project.
 
 ....................................................................................................................................
 
-client Setup
+1.client Setup
 -----------------------------
   1. npx create-react-app client.
   2. configure bootstrap , fontawesome icons.
@@ -50,4 +50,8 @@ client Setup
 			-> add-experience
 			-> add-education
 			-> create-profile
+
+2.server Setup
+-----------------------------
+
                         
