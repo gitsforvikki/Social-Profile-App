@@ -1,43 +1,5 @@
-# code(heading)
+# Social-Profile-App
+> It is a completely MERN stack web application.If someone wish to use it, first he/she has to be login and then he can maintain his/her
+professional profile. He/She can make a post, comment on others post and much more.
 
-**bold**
-
-*italicized text*
-
-> blockquote
-
-
-> Ordered List
-1. First item
-2. Second item
-3. Third item
-
-> Unordered list
-- First item
-- Second item
-- Third item
-
-> code
-
-`code`
-
-> for horizontal line
----
-
-
-> Links
-
-[github](https://www.github.com/gitsforvikki)
-
-
-
-> for image
-
-![alt text](./image/carbon.svg)
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+![alt text](/assets)
