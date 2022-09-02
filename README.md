@@ -26,11 +26,11 @@ There are three section about the project.
 
 -> application folder structure
 	-> layout
-		-> home
-		-> navbar
-		-> util
-			-> spinner
-			-> alert
+		|--home
+		|--navbar
+		|--util
+			|--spinner
+			|--alert
 	-> modules
 		-> users
 			-> user-register
@@ -52,3 +52,12 @@ There are three section about the project.
 -----------------------------
 
                         
+			── ...
+├── docs                    # Documentation files (alternatively `doc`)
+│   ├── TOC.md              # Table of contents
+│   ├── faq.md              # Frequently asked questions
+│   ├── misc.md             # Miscellaneous information
+│   ├── usage.md            # Getting started guide
+│   └── ...                 # etc.
+└──
+
