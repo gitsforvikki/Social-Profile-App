@@ -1,62 +1,43 @@
-# Social-Profile-App
-A fully MERN stack web application look like a social media for IT professionals.
+# code(heading)
 
-There are three section about the project.
-1. client side setup.
-2. server side setup.
-3. Deployment on heroku.
+**bold**
 
-....................................................................................................................................
+*italicized text*
 
-1.client Setup
------------------------------
-  1. npx create-react-app client.
-  2. configure bootstrap , fontawesome icons.
-  3. npm install mdbootstrap @fortawesome/fontawesome-free.
-  4. index.js file with all css files
-  5. index.html fontawesome css file
-  6. add google fonts "Ubuntu" font in index.html
-  
-  7. install axios , react-router-dom -> npm install axios react-router-dom
-  
-  8.configure redux
-	-> install the redux related packageslikes redux react-redux redux-thunk redux-devtools-extension
-	-> configure store & root Reducer
-	-> Provide the "store" to React Application
+> blockquote
 
-9.application folder structure
-	|-layout
-	|	|--home
-	|	|--navbar
-	|	|--util
-	|	|--spinner
-	|		|--alert
-	|- modules
-		-> users
-			-> user-register
-			-> user-login
-		-> posts
-			-> post-list
-			-> post-details
-		-> developers
-			-> developer-list
-			-> developer-details
-		-> profiles
-			-> dashboard
-			-> edit-profile
-			-> add-experience
-			-> add-education
-			-> create-profile
 
-2.server Setup
------------------------------
+> Ordered List
+1. First item
+2. Second item
+3. Third item
 
-                     
-├── docs                    # Documentation files (alternatively `doc`)
-│   ├── TOC.md              # Table of contents
-│   ├── faq.md              # Frequently asked questions
-│   ├── misc.md             # Miscellaneous information
-│   ├── usage.md            # Getting started guide
-│   └── ...                 # etc.
-└──
+> Unordered list
+- First item
+- Second item
+- Third item
 
+> code
+
+`code`
+
+> for horizontal line
+---
+
+
+> Links
+
+[github](https://www.github.com/gitsforvikki)
+
+
+
+> for image
+
+![alt text](./image/carbon.svg)
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
