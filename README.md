@@ -12,16 +12,14 @@ There are three section about the project.
 -----------------------------
   1. npx create-react-app client.
   2. configure bootstrap , fontawesome icons.
-	3. npm install mdbootstrap @fortawesome/fontawesome-free.
-	4. index.js file with all css files
-	5. index.html fontawesome css file
-	6. add google fonts "Ubuntu" font in index.html
-
-
--> install axios , react-router-dom
-	-> npm install axios react-router-dom
-
--> configure redux
+  3. npm install mdbootstrap @fortawesome/fontawesome-free.
+  4. index.js file with all css files
+  5. index.html fontawesome css file
+  6. add google fonts "Ubuntu" font in index.html
+  
+  7. install axios , react-router-dom -> npm install axios react-router-dom
+  
+  8.configure redux
 	-> install the redux related packages
 	-> npm install redux react-redux redux-thunk redux-logger redux-devtools-extension
 	-> configure store & root Reducer
