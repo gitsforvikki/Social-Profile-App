@@ -20,8 +20,7 @@ There are three section about the project.
   7. install axios , react-router-dom -> npm install axios react-router-dom
   
   8.configure redux
-	-> install the redux related packages
-	-> npm install redux react-redux redux-thunk redux-logger redux-devtools-extension
+	-> install the redux related packageslikes redux react-redux redux-thunk redux-devtools-extension
 	-> configure store & root Reducer
 	-> Provide the "store" to React Application
 
