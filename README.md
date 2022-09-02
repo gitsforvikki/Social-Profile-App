@@ -24,14 +24,14 @@ There are three section about the project.
 	-> configure store & root Reducer
 	-> Provide the "store" to React Application
 
--> application folder structure
-	-> layout
-		|--home
-		|--navbar
-		|--util
-			|--spinner
-			|--alert
-	-> modules
+9.application folder structure
+	|-layout
+	|	|--home
+	|	|--navbar
+	|	|--util
+	|	|--spinner
+	|		|--alert
+	|- modules
 		-> users
 			-> user-register
 			-> user-login
@@ -51,8 +51,7 @@ There are three section about the project.
 2.server Setup
 -----------------------------
 
-                        
-			── ...
+                     
 ├── docs                    # Documentation files (alternatively `doc`)
 │   ├── TOC.md              # Table of contents
 │   ├── faq.md              # Frequently asked questions
