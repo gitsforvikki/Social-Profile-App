@@ -5,4 +5,33 @@ There are many reliable and advanced technoloies like **React , Redux, node js, 
 are used to develop and maintain the project.
 
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+## 🛠 Technologies used
+> ### client side setup
+
+- configure bootstrap , fontawesome icons
+
+	```
+  npm install mdbootstrap @fortawesome/fontawesome-free
+  ```
+	 - import  all css and fontawesome files in `index.js`
+	
+	- Add google fonts "Ubuntu" font in `index.html`
+
+  - Install axios , react-router-dom
+  ```
+  npm install axios react-router-dom
+  ```
+
+
+
+- configure Redux setup
+	  > install the redux related packages
+	```
+  npm install redux react-redux redux-thunk redux-logger redux-devtools-extension
+  ```
+	- configure store & root Reducer
+	- Provide the "store" to React Application
+
+
+
