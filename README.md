@@ -74,7 +74,7 @@ npm install
 ```
 Note :  please update the MONGO_DB_CLOUD_URL with yours.
 
-### Run the projec
+### Run the project
 > you need two terminals to run client and server seperatly.
 - for client
 ```
